@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sszling.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-04T09:26:00.132Z</updated>
+    <title>SsAlinG 填坑笔记</title>
+    <updated>2020-08-04T09:35:59.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sszling.github.io"/>
     <link rel="self" href="https://sszling.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>日常拔草-填坑</subtitle>
     <logo>https://sszling.github.io/images/avatar.png</logo>
     <icon>https://sszling.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, SsAlinG 填坑笔记</rights>
+    <entry>
+        <title type="html"><![CDATA[测试博客]]></title>
+        <id>https://sszling.github.io/post/ce-shi-bo-ke/</id>
+        <link href="https://sszling.github.io/post/ce-shi-bo-ke/">
+        </link>
+        <updated>2020-08-04T09:29:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个一个新的开始，，，，，，<br>
+<img src="https://sszling.github.io/post-images/1596533461037.jpg" alt="" loading="lazy"><br>
+<img src="https://sszling.github.io/post-images/1596533482470.gif" alt="" loading="lazy"></p>
+<p>看看插入图片是如何使用的。🥊🚚</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个一个新的开始，，，，，，<br>
+<img src="https://sszling.github.io/post-images/1596533461037.jpg" alt="" loading="lazy"><br>
+<img src="https://sszling.github.io/post-images/1596533482470.gif" alt="" loading="lazy"></p>
+<p>看看插入图片是如何使用的。🥊🚚</p>
+<!-- more -->
+<p>如何插入代码？</p>
+<p><code>sudo -s</code><br>
+<code>vi /etc/config/network</code></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sszling.github.io/post/hello-gridea/</id>
