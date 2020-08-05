@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sszling.github.io</id>
     <title>SsAlinG</title>
-    <updated>2020-08-04T10:10:16.745Z</updated>
+    <updated>2020-08-05T06:33:44.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sszling.github.io"/>
     <link rel="self" href="https://sszling.github.io/atom.xml"/>
@@ -26,9 +26,10 @@
 <img src="https://sszling.github.io/post-images/1596533482470.gif" alt="" loading="lazy"></p>
 <p>看看插入图片是如何使用的。🥊🚚</p>
 <!-- more -->
-<p>如何插入代码？</p>
-<p><code>sudo -s</code><br>
-<code>vi /etc/config/network</code></p>
+<p>如何插入代码？<br>
+<code>sudo -s</code><br>
+<code>vi /etc/config/network</code><br>
+<img src="https://sszling.github.io/post-images/1596609144931.gif" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
