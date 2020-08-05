@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sszling.github.io</id>
     <title>SsAlinG</title>
-    <updated>2020-08-05T06:33:44.419Z</updated>
+    <updated>2020-08-05T07:46:27.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sszling.github.io"/>
     <link rel="self" href="https://sszling.github.io/atom.xml"/>
@@ -12,19 +12,15 @@
     <rights>All rights reserved 2020, SsAlinG</rights>
     <entry>
         <title type="html"><![CDATA[测试博客]]></title>
-        <id>https://sszling.github.io/post/ce-shi-bo-ke/</id>
-        <link href="https://sszling.github.io/post/ce-shi-bo-ke/">
+        <id>https://sszling.github.io/ce-shi-bo-ke/</id>
+        <link href="https://sszling.github.io/ce-shi-bo-ke/">
         </link>
         <updated>2020-08-04T09:29:47.000Z</updated>
         <summary type="html"><![CDATA[<p>这个一个新的开始，，，，，，<br>
-<img src="https://sszling.github.io/post-images/1596533461037.jpg" alt="" loading="lazy"><br>
-<img src="https://sszling.github.io/post-images/1596533482470.gif" alt="" loading="lazy"></p>
-<p>看看插入图片是如何使用的。🥊🚚</p>
+看看插入图片是如何使用的。🥊🚚</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>这个一个新的开始，，，，，，<br>
-<img src="https://sszling.github.io/post-images/1596533461037.jpg" alt="" loading="lazy"><br>
-<img src="https://sszling.github.io/post-images/1596533482470.gif" alt="" loading="lazy"></p>
-<p>看看插入图片是如何使用的。🥊🚚</p>
+看看插入图片是如何使用的。🥊🚚</p>
 <!-- more -->
 <p>如何插入代码？<br>
 <code>sudo -s</code><br>
@@ -34,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://sszling.github.io/post/hello-gridea/</id>
-        <link href="https://sszling.github.io/post/hello-gridea/">
+        <id>https://sszling.github.io/hello-gridea/</id>
+        <link href="https://sszling.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
